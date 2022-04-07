@@ -10,10 +10,10 @@
 <br clear="left"/>
 
 ---
-[![](https://img.shields.io/badge/Bakgrunn-green?style=for-the-badge)](https://github.com/AmandaLohne/amandalohne/edit/main/README.md#b-a-k-g-r-u-n-n)
-[![](https://img.shields.io/badge/Fremgangsmåte-green?style=for-the-badge)](https://github.com/AmandaLohne/amandalohne/edit/main/README.md#f-r-e-m-g-a-n-g-s-m-%C3%A5-t-e) 
-[![](https://img.shields.io/badge/Bilder-green?style=for-the-badge)](https://github.com/AmandaLohne/amandalohne/edit/main/README.md#b-i-l-d-e-r)
-[![](https://img.shields.io/badge/Resultater-green?style=for-the-badge)](https://github.com/AmandaLohne/amandalohne/edit/main/README.md#r-e-s-u-l-a-t-e-r)
+[![](https://img.shields.io/badge/Bakgrunn-green?style=for-the-badge)](https://github.com/AmandaLohne/amandalohne/blob/main/README.md#b-a-k-g-r-u-n-n)
+[![](https://img.shields.io/badge/Fremgangsmåte-green?style=for-the-badge)](https://github.com/AmandaLohne/amandalohne/blob/main/README.md#f-r-e-m-g-a-n-g-s-m-%C3%A5-t-e) 
+[![](https://img.shields.io/badge/Bilder-green?style=for-the-badge)](https://github.com/AmandaLohne/amandalohne/blob/main/README.md#b-i-l-d-e-r)
+[![](https://img.shields.io/badge/Resultater-green?style=for-the-badge)](https://github.com/AmandaLohne/amandalohne/blob/main/README.md#r-e-s-u-l-a-t-e-r)
 
 ---
 
