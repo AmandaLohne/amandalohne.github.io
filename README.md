@@ -10,7 +10,7 @@
 <br clear="left"/>
 
 ---
-[![](https://img.shields.io/badge/Bakgrunn-green?style=for-the-badge)](https://amandalohne.github.io/amandalohne/b-a-k-g-r-u-n-n)
+[![](https://img.shields.io/badge/Bakgrunn-green?style=for-the-badge)](https://amandalohne.github.io/amandalohne/#b-a-k-g-r-u-n-n)
 [![](https://img.shields.io/badge/Fremgangsmåte-green?style=for-the-badge)](https://amandalohne.github.io/amandalohne/#f-r-e-m-g-a-n-g-s-m-%C3%A5-t-e) 
 [![](https://img.shields.io/badge/Bilder-green?style=for-the-badge)](https://amandalohne.github.io/amandalohne/#b-i-l-d-e-r)
 [![](https://img.shields.io/badge/Resultater-green?style=for-the-badge)](https://amandalohne.github.io/amandalohne/#r-e-s-u-l-a-t-e-r)
