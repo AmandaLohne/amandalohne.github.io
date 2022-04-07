@@ -9,11 +9,10 @@ Hei og hå! Jeg studerer materialteknologi på NTNU, hvor interessen min for bæ
   Jeg vil dermed ønske dere velkommen til min avokadoreise-green?
 <br clear="left"/>
 
-[![](https://img.shields.io/badge/Bakgrunn-green?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-[![](https://img.shields.io/badge/Fremgangsmåte-green?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
-[![](https://img.shields.io/badge/Bilder-green?style=for-the-badge)](https://docs.rs/crate/redant/latest)
-[![](https://img.shields.io/badge/Resultater-green?style=for-the-badge)](https://crates.io/crates/redant)
-[![](https://img.shields.io/badge/Hei-green?style=for-the-badge)](https://lib.rs/crates/redant)
+[![](https://img.shields.io/badge/Bakgrunn-green?style=for-the-badge)](https://github.com/AmandaLohne/amandalohne/edit/main/README.md#b-a-k-g-r-u-n-n)
+[![](https://img.shields.io/badge/Fremgangsmåte-green?style=for-the-badge)](https://github.com/AmandaLohne/amandalohne/edit/main/README.md#f-r-e-m-g-a-n-g-s-m-%C3%A5-t-e)
+[![](https://img.shields.io/badge/Bilder-green?style=for-the-badge)](https://github.com/AmandaLohne/amandalohne/edit/main/README.md#b-i-l-d-e-r)
+[![](https://img.shields.io/badge/Resultater-green?style=for-the-badge)](https://github.com/AmandaLohne/amandalohne/edit/main/README.md#r-e-s-u-l-a-t-e-r)
 
 
 <img src="https://user-images.githubusercontent.com/103142164/162156562-71356ffc-1a14-4970-a910-c92c99f55104.JPG" align="left" width="100" heigth="200" />
@@ -27,3 +26,12 @@ Hei og hå! Jeg studerer materialteknologi på NTNU, hvor interessen min for bæ
 ### B A K G R U N N
 Spiser en god del avokadoer. Syns det var kjedelig å bare kaste steinene. Scrolla litt rundt. Fant noe som virka veldig lovende. Prøvde meg på det. Gått som en suksè siden. Og nå har jeg 5 planter. 
 <br clear="left"/>
+
+
+### F R E M G A N G S M Å T E
+
+
+### B I L D E R
+
+
+### R E S U L A T E R
