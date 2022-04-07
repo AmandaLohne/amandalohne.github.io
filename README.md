@@ -10,10 +10,10 @@
 <br clear="left"/>
 
 ---
-[![](https://img.shields.io/badge/Bakgrunn-green?style=for-the-badge)](https://github.com/AmandaLohne/amandalohne/blob/main/README.md#b-a-k-g-r-u-n-n)
-[![](https://img.shields.io/badge/Fremgangsmåte-green?style=for-the-badge)](https://github.com/AmandaLohne/amandalohne/blob/main/README.md#f-r-e-m-g-a-n-g-s-m-%C3%A5-t-e) 
-[![](https://img.shields.io/badge/Bilder-green?style=for-the-badge)](https://github.com/AmandaLohne/amandalohne/blob/main/README.md#b-i-l-d-e-r)
-[![](https://img.shields.io/badge/Resultater-green?style=for-the-badge)](https://github.com/AmandaLohne/amandalohne/blob/main/README.md#r-e-s-u-l-a-t-e-r)
+[![](https://img.shields.io/badge/Bakgrunn-green?style=for-the-badge)](https://amandalohne.github.io/amandalohne/b-a-k-g-r-u-n-n)
+[![](https://img.shields.io/badge/Fremgangsmåte-green?style=for-the-badge)](https://amandalohne.github.io/amandalohne/#f-r-e-m-g-a-n-g-s-m-%C3%A5-t-e) 
+[![](https://img.shields.io/badge/Bilder-green?style=for-the-badge)](https://amandalohne.github.io/amandalohne/#b-i-l-d-e-r)
+[![](https://img.shields.io/badge/Resultater-green?style=for-the-badge)](https://amandalohne.github.io/amandalohne/#r-e-s-u-l-a-t-e-r)
 
 ---
 
@@ -25,7 +25,7 @@
 
 <img src="https://user-images.githubusercontent.com/103142164/162156602-608092d7-2d46-4c97-9c53-cf9ba1905573.jpg" align="left" width="89" heigth="100" />
           
-### B A K G R U N N
+### B A K G R U N N ###
 &nbsp;&nbsp;&nbsp;&nbsp;Det hele startet etter jeg innså at jeg spiser en god del &nbsp;&nbsp;&nbsp;&nbsp;avokadoer og syns det var synd å bare kaste steinene. Jeg tok &nbsp;&nbsp;&nbsp;&nbsp;derfor mobilen og nettet fatt. Fant masse spennende metoder &nbsp;&nbsp;&nbsp;&nbsp;å anvende, men det var en som fanget interessen min mest. &nbsp;&nbsp;&nbsp;&nbsp;Dette var en metode som skulle sikre at steinen kom til å få &nbsp;&nbsp;&nbsp;&nbsp;røtter, som senere kunne bli satt i vann. Fant videre ut at &nbsp;&nbsp;&nbsp;&nbsp;avokadoplanter kan stå i vann hele tiden uten å bli satt i jord - &nbsp;&nbsp;&nbsp;&nbsp;noe som førte til at engasementet min fløy i været. Nå kunne &nbsp;&nbsp;&nbsp;&nbsp;jeg kjøpe mange finer vaser i ulike farger og fasoner! OG se &nbsp;&nbsp;&nbsp;&nbsp;hvordan plantene mine forandrer seg fra dag til dag. 
 \
 \
