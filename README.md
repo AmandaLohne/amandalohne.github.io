@@ -26,7 +26,10 @@
 <img src="https://user-images.githubusercontent.com/103142164/162156602-608092d7-2d46-4c97-9c53-cf9ba1905573.jpg" align="left" width="89" heigth="100" />
           
 ### B A K G R U N N
-Spiser en god del avokadoer. Syns det var kjedelig å bare kaste steinene. Scrolla litt rundt. Fant noe som virka veldig lovende. Prøvde meg på det. Gått som en suksè siden. Og nå har jeg 5 planter. 
+Det hele startet etter jeg innså at jeg spiser en god del avokadoer og syns det var synd å bare kaste steinene. Jeg tok derfor mobilen og nettet fatt. Fant masse spennende metoder å anvende, men det var en som fanget interessen min mest. Dette var en metode som skulle sikre at steinen kom til å få røtter, som senere kunne bli satt i vann. Fant videre ut at avokadoplanter kan stå i vann hele tiden uten å bli satt i jord - noe som førte til at engasementet min fløy i været. Nå kunne jeg kjøpe mange finer vaser i ulike farger og fasoner! OG se hvordan plantene mine forandrer seg fra dag til dag. 
+\
+\
+Per dags dato har jeg 5 avokadoplanter og jeg passer på å fylle med vann nærmest annen hver dag. Plantene vokser mot lyset, så jeg passer på å snu de litt sånn at de vokser seg rett.  
 <br clear="left"/>
 
 
