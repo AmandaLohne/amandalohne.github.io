@@ -17,13 +17,13 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/103142164/162156562-71356ffc-1a14-4970-a910-c92c99f55104.JPG" align="left" width="100" heigth="200" />
+<img src="https://user-images.githubusercontent.com/103142164/162156562-71356ffc-1a14-4970-a910-c92c99f55104.JPG" align="left" width="100" heigth="200" padding-left="10px"/>
 
-<img src="https://user-images.githubusercontent.com/103142164/162156590-ee7ef663-76fd-4cd1-a64f-a06954da90d7.jpg" align="left" width="52.5" heigth="100" />
+<img src="https://user-images.githubusercontent.com/103142164/162156590-ee7ef663-76fd-4cd1-a64f-a06954da90d7.jpg" align="left" width="52.5" heigth="100" padding-left="10px"/>
 
-<img src="https://user-images.githubusercontent.com/103142164/162156596-470e5998-bb7a-4eb6-ab65-d681d3650fee.jpg" align="left" width="60.5" heigth="100" />
+<img src="https://user-images.githubusercontent.com/103142164/162156596-470e5998-bb7a-4eb6-ab65-d681d3650fee.jpg" align="left" width="60.5" heigth="100" padding-left="10px"/>
 
-<img src="https://user-images.githubusercontent.com/103142164/162156602-608092d7-2d46-4c97-9c53-cf9ba1905573.jpg" align="left" width="89" heigth="100" />
+<img src="https://user-images.githubusercontent.com/103142164/162156602-608092d7-2d46-4c97-9c53-cf9ba1905573.jpg" align="left" width="89" heigth="100" padding-left="10px"/>
           
 ### B A K G R U N N ###
 &nbsp;&nbsp;&nbsp;&nbsp;Det hele startet etter jeg innså at jeg spiser en god del &nbsp;&nbsp;&nbsp;&nbsp;avokadoer og syns det var synd å bare kaste steinene. Jeg tok &nbsp;&nbsp;&nbsp;&nbsp;derfor mobilen og nettet fatt. Fant masse spennende metoder &nbsp;&nbsp;&nbsp;&nbsp;å anvende, men det var en som fanget interessen min mest. &nbsp;&nbsp;&nbsp;&nbsp;Dette var en metode som skulle sikre at steinen kom til å få &nbsp;&nbsp;&nbsp;&nbsp;røtter, som senere kunne bli satt i vann. Fant videre ut at &nbsp;&nbsp;&nbsp;&nbsp;avokadoplanter kan stå i vann hele tiden uten å bli satt i jord - &nbsp;&nbsp;&nbsp;&nbsp;noe som førte til at engasementet min fløy i været. Nå kunne &nbsp;&nbsp;&nbsp;&nbsp;jeg kjøpe mange finer vaser i ulike farger og fasoner! OG se &nbsp;&nbsp;&nbsp;&nbsp;hvordan plantene mine forandrer seg fra dag til dag. 
