@@ -63,6 +63,7 @@ Jeg brukte en 3D-printet båt for at steinen jevnlig vil være i kontakt med van
 <img src="https://user-images.githubusercontent.com/103142164/162203766-28c1f46b-1fc4-48fe-bccb-d7d44a9be66a.JPG" align="left" width="89" heigth="100" />
 
 
+
 <br clear="left"/>
 
 5. Etter hvert som røttene er blitt lange vil trestammen begynne å vokse og når den er lang nok vil det begynne å komme blader på toppen av den. 
@@ -71,8 +72,51 @@ Jeg brukte en 3D-printet båt for at steinen jevnlig vil være i kontakt med van
 
 
 <br clear="left"/>
+### R E S U L A T E R
 
 ### B I L D E R
 
+![PXL_20220113_212037118 MP_Original](https://user-images.githubusercontent.com/103142164/162391402-6ba6eb05-5914-4829-a557-2f818305263f.JPG)
+![IMG_0378 2](https://user-images.githubusercontent.com/103142164/162391884-83dbed75-a96e-49d0-a213-ef41d5ca3dac.jpg)
 
-### R E S U L A T E R
+![IMG_0377](https://user-images.githubusercontent.com/103142164/162392369-71f93152-283a-4c17-891e-c78d1dd0bcaf.jpg)
+
+
+![IMG_0406](https://user-images.githubusercontent.com/103142164/162394578-f3b434b7-6a2d-480e-8c0e-f16e94327871.jpg)
+
+![IMG_0399](https://user-images.githubusercontent.com/103142164/162394757-fb28f4ec-e964-4828-9077-6b454916324f.jpg)
+
+![IMG_0403](https://user-images.githubusercontent.com/103142164/162394917-4bfa0c38-187c-4c44-b9b3-032b529b5b08.jpg)
+
+
+Røtter
+![IMG_0402](https://user-images.githubusercontent.com/103142164/162395198-8a059dce-3da1-4f91-8ce4-4ea1ae7b2e43.jpg)
+![IMG_0408](https://user-images.githubusercontent.com/103142164/162395256-dedc6ad2-25e1-4b98-9935-a978e8e04f20.jpg)
+![IMG_0405](https://user-images.githubusercontent.com/103142164/162395278-339e1454-4c87-46e1-b53d-b3e450a73d4d.jpg)
+![IMG_0411](https://user-images.githubusercontent.com/103142164/162395304-aef68151-cb5a-47f4-ae8f-b97b5318d165.jpg)
+
+Trestamme
+![IMG_0401](https://user-images.githubusercontent.com/103142164/162395859-abbdc6aa-1895-4a36-b351-4a76bd4ccb7a.jpg)
+![IMG_0407](https://user-images.githubusercontent.com/103142164/162395887-453983ef-1842-4c06-a513-b868ec04bac7.jpg)
+![IMG_0404](https://user-images.githubusercontent.com/103142164/162395910-6d8f0d19-adb0-47b4-948c-262ecd069973.jpg)
+
+Steg to
+![IMG_0412](https://user-images.githubusercontent.com/103142164/162398130-0b09d86e-7b03-4562-ab37-af729b0f8ba8.jpg)
+![IMG_0413](https://user-images.githubusercontent.com/103142164/162398154-da905c6d-9efb-4096-981e-c38ca1734c30.jpg)
+![IMG_0414](https://user-images.githubusercontent.com/103142164/162398164-6741278d-3866-4711-b388-033134099d7b.jpg)
+![IMG_0415](https://user-images.githubusercontent.com/103142164/162398178-b357627c-f744-46cf-828c-148f84ac3923.jpg)
+![IMG_0416](https://user-images.githubusercontent.com/103142164/162398186-98f11167-6ddf-4de2-a134-6b3cd44f65e8.jpg)
+
+Pille
+![PXL_20220113_212037118 MP_Original 2](https://user-images.githubusercontent.com/103142164/162399783-6c3c6a26-5c27-4c23-81f6-4c111ac8306d.JPG)
+![PXL_20220125_121438890 MP_Original](https://user-images.githubusercontent.com/103142164/162399809-d3e2bc07-b426-436a-afc3-1e89f69ea48f.JPG)
+
+![PXL_20220125_121438890 MP_Original](https://user-images.githubusercontent.com/103142164/162400712-567bb07c-b4b4-4e72-951c-f0877f644f1f.JPG)
+
+![IMG_0095](https://user-images.githubusercontent.com/103142164/162401443-64a81fd2-6831-420e-8cdd-dc47643587c4.jpg)
+
+![PXL_20220125_121353982 MP_Original](https://user-images.githubusercontent.com/103142164/162401455-e771c45d-0863-4e13-bc5e-e5cb58568fea.JPG)
+
+Bolle
+![IMG_0147](https://user-images.githubusercontent.com/103142164/162401913-0fa83971-9d81-4abc-98a0-58abc0e876b9.jpg)
+
