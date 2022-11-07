@@ -1,10 +1,4 @@
+Hi, I am Amanda Lohne
+and I am a materials engineer student, designer, developer and thinker.
 
-<img src="https://user-images.githubusercontent.com/103142164/162144222-915c07ed-bdf4-4204-b9ae-ac851c7d6e05.jpg" align="left" width="200" height="200" />  
-&nbsp;&nbsp;&nbsp;&nbsp;Hei og hå! Jeg studerer materialteknologi på NTNU, hvor interessen min &nbsp;&nbsp;&nbsp;&nbsp;for bærekraft har blomstret seg sterkt :seedling:
-
-\
-&nbsp;&nbsp;&nbsp;&nbsp;Dette har slått spirer i min "kjærlighet" for planter og da spesielt &nbsp;&nbsp;&nbsp;&nbsp;avokadoplanter :avocado: 
-
-\
-&nbsp;&nbsp;&nbsp;&nbsp;Jeg vil dermed ønske dere velkommen til min avokadoreise!
-<br clear="left"/>
+It all started with me wanting to acquire more knowledge outside of my studies with the countless subjects and related books. I wanted to learn by being more practical and not only theoretically minded. I therefore thought it would be wise to use the theoretical knowledge I have already learned and use it practically. Among other things, I have learned a lot about 3D printing at school and felt that I wanted to learn more about how I actually produce a product and not just how a 3D printer works. Fortunately, my partner has a 3D printer and I turned my idea into a project. After that, it has been busy with several and quite different projects. In order to present them as best as possible, I have now created a website. I have a remarkable at hand and to get the best and equal expression on the website, I have used it to draw the various projects. Click on the various sketches and take a closer look at the projects.
