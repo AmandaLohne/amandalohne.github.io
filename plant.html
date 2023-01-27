@@ -36,27 +36,49 @@
         margin-right: auto; 
         margin-top: 6%;
     }
-</style>
-<body style="background-color: beige;">
-    <div style="padding: 30px;">
+
+    .section-content {
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        gap: 2em; 
+        margin-top: 20%;
+        background-color: #283618; 
+        border-radius: 25px; 
+        padding: 1em 4em 1em 4em;
+    }
+    
+    .section-content-element {
+        padding-left: 1em;
+        padding-right: 1em;
+        
+    }
+    @media (max-width: 800px) {
+        .section-content {
+            flex-direction: column;
+        }
+    }
+    </style>
+<body style="background-color: #fefae0;">
+    <div style="padding: 6em;">
         <p style="text-align: center;">22. september 2022 <span>&#183;</span> plants, 3D-print<p>
         <h1 style="text-align:center">Making my hanging plant a climbing plant</h1>
         <img src="./assets/Planteklips maal.png" style="width:50%; margin-top: 10%;" class="center">
         
-        
-        <div class="row" style="margin-top: 20%; background-color: darkolivegreen; border-radius: 25px;">
-            <div class="col-md-4" style="padding: 10px">
-                <img src="./assets/Klatreplante bilde.jpg" style="width:70%; border-radius: 25px;" class="center">
+
+        <div class="section-content">
+            <div class="col-md-4 section-content-element">
+                <img src="./assets/Klatreplante bilde.jpg" style="width:100%; border-radius: 25px;" class="center">
             </div>
 
-            <div class="col-md-4" style="padding: 10px">
-                <img src="./assets/Hengeplante bilde.jpg" style="width:70%; border-radius: 25px;" class="center">
+            <div class="col-md-4 section-content-element">
+                <img src="./assets/Hengeplante bilde.jpg" style="width:100%; border-radius: 25px;" class="center">
             </div>
-            <div class="col-md-4" style="padding: 20px">
-                <h2 style="color: burlywood;">
-                    Purpose - why did I do it?
+            <div class="col-md-4 section-content-element">
+                <h2 style="color: #FAD29D;">
+                    Why did I do it?
                 </h2>
-                <p style="color: burlywood;">
+                <p style="color: #FAD29D;">
                     I wanted to display my plants. Make them a part of the interior of the apartment. Hopefully give them more light
                     simultaneous. Wanted to learn more about the 3D-printing process. Learn more about how to use Fusion 360. 
                     I got the inspiration from the internet. Just be searching "climbing plant support" you get several different ideas
@@ -68,14 +90,12 @@
                 </p>
             </div>
         </div>
-
-
     
 
         <div class="row" style="margin-top: 10%; margin-bottom: 5%;">
             <div class="col-md-6">
                 <h2>
-                    Experimental - how did I do it?
+                    How did I do it?
                 </h2>
                 <p>I am a person who like to jump into stuff and not nessecery do so much reasurch first. So I started by having 
                     some fun with the software, Fusion 360. Pressed on the different buttons, tryed to rotate the working space,
@@ -94,49 +114,8 @@
             </div>
         </div>
 
-        <div class="row" style="background-color: darkolivegreen; padding-bottom: 3%; padding-top: 2%; margin-top: 10%; border-radius: 25px;">
-            <div class="col-md-3">
-                <img src="./assets/Planteklips svarte.png" style="width:70%" class="center">
-            </div>
-            <div class="col-md-3">
-                <img src="./assets/Planteklips svarte 2.png" style="width:70%" class="center">
-            </div>
-            <div class="col-md-6">
-                <h2 style="color: burlywood;">
-                    The final design.
-                </h2>
-                <p style="color: burlywood;">
-                    It works. The whole is big enough for the plant (important to not hurt it). The tracks are thight, so have to 
-                    use a litle power to close it. 
-                </p>
-
-            </div>
-        </div>
-
     
-        <div class="row" style="margin-top: 10%;">
-            <div class="col-md-4">
-                <h2>
-                Drawings and sketches of the product
-                </h2>
-                <p>
-                    To get a better idea of the size. The dimension is 4:1. It is given in mm (millimeter).
-                </p>
-            </div>
-            <div class="col-md-3" style="margin-left: 0%;">
-                <img src="./assets/Planteklips maal svart 2.png" style="width:75%" class="center">
-                <img src="./assets/Planteklips svart maal.png" style="width:80%" class="center">
-            </div>
-            <div class="col-md-3">
-                <img src="./assets/Skisse planteklips.png" style="width:60%" class="center">
-                <img src="./assets/Skisse planteklips 2.png" style="width:100%" class="center">
-            </div>
-        </div>
-
-        <div class="row" style="background-color: darkolivegreen; padding-bottom: 3%; padding-top: 2%; margin-top: 10%; border-radius: 25px; margin-top: 10%;">
-            <h2 style="color: burlywood; margin-left: 0%;">
-                Pictures of the product in real life 
-            </h2>
+        <div class="section-content">
             <div class="col-md-3">
                 <img src="./assets/Planteklips.jpeg" style="width: 50%; border-radius: 25px;" class="center">
             </div>
@@ -152,25 +131,26 @@
         </div>
 
         <div class="row" style="margin-top: 10%;">
-            <div class="col-md-6">
-                <h2>
-                    Results - so how did it turn out?
-                </h2>
-            </div>
             <div class="col-md-3">
                 <img src="./assets/Planteklips gronn 2.png" style="width:70%">
             </div>
             <div class="col-md-3">
                 <img src="./assets/Planteklips gronn.png" style="width:70%">
             </div>
+            <div class="col-md-3">
+                <img src="./assets/Planteklips svarte.png" style="width:70%" class="center">
+            </div>
+            <div class="col-md-3">
+                <img src="./assets/Planteklips svarte 2.png" style="width:70%" class="center">
+            </div>
         </div>
 
-        <div class="row" style="background-color: darkolivegreen; padding-bottom: 3%; padding-top: 2%; margin-top: 10%; border-radius: 25px; margin-top: 10%;">
+        <div class="row" style="margin-top: 10%;">
             <div class="col-md-6">
-                <h2 style="color: burlywood;">
+                <h2 style="color: black;">
                     Links to other websites
                 </h2>
-                <p style="color: burlywood;">
+                <p style="color: black;">
                     https://www.printables.com/model/349056-plant-clip
                 </p>
             </div>
