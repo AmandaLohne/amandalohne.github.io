@@ -179,6 +179,44 @@
                 </div>
             </div>
 
+            <div class="container">
+                <img src="./assets/Profil_blomster.png" class="left">
+                <img src="./assets/Profil_blomster.png" class="right">
+            </div>
+
+            <style>
+            .container {
+                position: sticky;
+                top: 20%;
+                display: flex;
+                gap: 20px;
+                justify-content: center;
+            }
+
+            .container img {
+                width: 200px;
+                height: auto;
+                transition: transform 0.2s;
+            }
+
+            body {
+                --scroll: 0;
+            }
+
+            .left {
+                transform: translateX(calc(var(--scroll) * -0.5px));
+            }
+
+            .right {
+                transform: translateX(calc(var(--scroll) * 0.5px));
+            }
+            </style>
+
+            <script>
+            window.addEventListener("scroll", () => {
+                document.body.style.setProperty("--scroll", window.scrollY);
+            });
+            </script>
             
             <div id="myBtnContainer">
                 <button class="btn active" onclick="filterSelection('all')">
