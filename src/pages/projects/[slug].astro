@@ -1,0 +1,72 @@
+---
+import { getCollection, getEntryBySlug } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+
+export async function getStaticPaths() {
+    const projects = await getCollection("projects", (p) => !p.data.draft);
+    return projects.map(({ slug }) => ({ params: { slug } }));
+}
+
+const { slug } = Astro.params;
+const entry = await getEntryBySlug("projects", slug!);
+if (!entry) throw new Error(`Project not found: ${slug}`);
+
+const { Content } = await entry.render();
+const data = entry.data;
+---
+
+<Layout>
+    <article class="wrap">
+        <header class="hero">
+            <h1>{data.title}</h1>
+            {
+                data.cover && (
+                    <img
+                        class="cover"
+                        src={data.cover}
+                        alt={data.coverAlt || data.title}
+                    />
+                )
+            }
+            {data.excerpt && <p class="excerpt">{data.excerpt}</p>}
+        </header>
+
+        <div class="content">
+            <Content />
+        </div>
+    </article>
+</Layout>
+
+<style>
+    .wrap {
+        padding: 2rem;
+        max-width: 960px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .hero h1 {
+        margin: 0 0 0.5rem;
+        font-size: 2rem;
+    }
+    .cover {
+        width: auto;
+        max-height: 20em;
+        border-radius: 10px;
+        margin: 0.5rem 0 1rem;
+    }
+    .excerpt {
+        color: #555;
+        font-size: 1rem;
+    }
+    .content :where(img) {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+    }
+    .content :where(h2, h3) {
+        margin-top: 1.5rem;
+    }
+</style>
