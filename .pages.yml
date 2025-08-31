@@ -1,0 +1,37 @@
+media:
+  - name: media
+    label: Media
+    input: public
+    output: /media
+    path: /media
+
+content:
+  - name: Projects
+    label: Projects
+    type: collection
+    path: src/content/projects
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: date
+        label: Date
+        type: date
+      - name: excerpt
+        label: Excerpt
+        type: string
+      - name: cover
+        label: Cover Image
+        type: image
+        description: Main image shown in project listing
+      - name: coverAlt
+        label: Cover Alt Text
+        type: string
+        description: Alternative text for the cover image
+      - name: draft
+        label: Draft
+        type: boolean
+        default: false
+      - name: body
+        label: Body
+        type: rich-text
