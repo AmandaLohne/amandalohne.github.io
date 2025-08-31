@@ -3,7 +3,7 @@ media:
     label: Media
     input: public/images/projects/
     output: /projects
-    path: /media
+    path: /projects
 
 content:
   - name: Projects
