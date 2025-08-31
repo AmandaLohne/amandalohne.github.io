@@ -1,7 +1,7 @@
 media:
   - name: media
     label: Media
-    input: input
+    input: public/images/projects
     output: output
     path: path
 
