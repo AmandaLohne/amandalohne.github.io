@@ -1,0 +1,16 @@
+---
+title: "Upholstering chair"
+cover: "/images/projects/Vitrineskap/Vitrineskap.png"
+coverAlt: ""
+date: 2025-08-01
+excerpt: "Making a worn down classic ready for more years to come."
+draft: false
+---
+
+## Overview
+
+Write your full project story here in Markdown. Add images:
+
+![Some detail](/images/projects/SCR-20250825-psgh.png)
+
+More text, lists, code, etc.
