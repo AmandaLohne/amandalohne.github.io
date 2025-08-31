@@ -1,9 +1,9 @@
 media:
   - name: media
     label: Media
-    input: public/images/projects/
-    output: /images/projects/
-    path: media
+    input: input
+    output: output
+    path: path
 
 content:
   - name: Projects
