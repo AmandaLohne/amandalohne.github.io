@@ -1,12 +1,10 @@
 ---
-title: "Upholstering chair"
-cover: "/images/projects/Vitrineskap/Vitrineskap.png"
-coverAlt: ""
+title: Plant cabinet
 date: 2025-08-01
-excerpt: "Making a worn down classic ready for more years to come."
+excerpt: Plants need a cabinet
+cover: images/projects/Vitrineskap/Vitrineskap.png
 draft: false
 ---
-
 ## Overview
 
 Write your full project story here in Markdown. Add images:
