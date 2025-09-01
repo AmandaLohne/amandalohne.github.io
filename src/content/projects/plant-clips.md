@@ -5,10 +5,10 @@ excerpt: Convert a hanging plant into a climbing plant.
 cover: /images/projects/Planteklips/Planteklips_tegning.png
 draft: false
 ---
-## Overview
+## Details
 
-Write your full project story here in Markdown. Add images:
+<p style="text-align: center"><img src="/images/projects/Planteklips/Hengeplante%20bilde.jpg"></p>
 
-![Some detail](/images/projects/SCR-20250825-psgh.png)
+<p style="text-align: center"><img src="/images/projects/Planteklips/Klatreplante%20bilde.jpg"></p>
 
-More text, lists, code, etc.
+<p style="text-align: center"><img src="/images/projects/Planteklips/Klips%20n%C3%A6rbilde%201.jpg"></p><p style="text-align: center"><img src="/images/projects/Planteklips/Planteklips%20svarte%202.png"></p><p style="text-align: center"><img src="/images/projects/Planteklips/Planteklips%20svarte.png"></p><p style="text-align: center"><img src="/images/projects/Planteklips/Planteklips%20gronn.png"></p><p style="text-align: center"><img src="/images/projects/Planteklips/Planteklips%20tegning%20i%20rommet.png"></p>
