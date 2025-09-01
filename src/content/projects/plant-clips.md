@@ -7,12 +7,6 @@ draft: false
 ---
 ## Details
 
-<p style="text-align: center"><img src="/images/projects/Planteklips/Hengeplante%20bilde.jpg"></p>
-
-<p style="text-align: center"><img src="/images/projects/Planteklips/Klatreplante%20bilde.jpg"></p>
-
-<p style="text-align: center"><img src="/images/projects/Planteklips/Klips%20n%C3%A6rbilde%201.jpg"></p><p style="text-align: center"><img src="/images/projects/Planteklips/Planteklips%20svarte%202.png"></p><p style="text-align: center"><img src="/images/projects/Planteklips/Planteklips%20svarte.png"></p><p style="text-align: center"><img src="/images/projects/Planteklips/Planteklips%20gronn.png"></p>
+<p style="text-align: center"><img src="/images/projects/Planteklips/Hengeplante%20bilde.jpg"></p><p style="text-align: center"><img src="/images/projects/Planteklips/Klatreplante%20bilde.jpg"></p><p style="text-align: center"><img src="/images/projects/Planteklips/Klips%20n%C3%A6rbilde%201.jpg"></p><p style="text-align: center"><img src="/images/projects/Planteklips/Planteklips%20svarte%202.png"></p><p style="text-align: center"><img src="/images/projects/Planteklips/Planteklips%20svarte.png"></p><p style="text-align: center"><img src="/images/projects/Planteklips/Planteklips%20gronn.png"></p><p style="text-align: center"><img src="/images/projects/Planteklips/Planteklips%20tegning%20i%20rommet.png"></p>
 
 The design can also be seen at: [https://www.printables.com/model/349056-plant-clip](https://www.printables.com/model/349056-plant-clip)
-
-<p style="text-align: center"><img src="/images/projects/Planteklips/Planteklips%20tegning%20i%20rommet.png"></p>
