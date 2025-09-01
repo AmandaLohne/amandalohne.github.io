@@ -5,8 +5,6 @@ excerpt: Making a worn down classic ready for more years to come.
 cover: /images/projects/Greenboards/Green.png
 draft: false
 ---
-![](/images/projects/Greenboards/Plantegning.png)
+<p style="text-align: center"><img src="/images/projects/Greenboards/Plantegning.png"></p>
 
-![](/images/projects/Greenboards/Plantegning.png)
-
-![](/images/projects/Greenboards/Forste%20bilde.jpg)
+<p style="text-align: center"><img src="/images/projects/Greenboards/Plantegning.png"></p><p style="text-align: center"><img src="/images/projects/Greenboards/Forste%20bilde.jpg"></p>
