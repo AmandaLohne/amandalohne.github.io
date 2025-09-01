@@ -1,14 +1,10 @@
 ---
 title: Kitchen Soap Tray
 date: 2025-08-01
-excerpt: Making a worn down classic ready for more years to come.
+excerpt: Protect the kitchen counter from getting wet.
 cover: /images/projects/Kjokkenskaal/Kjokken.png
 draft: false
 ---
-## Overview
+## Details
 
-Write your full project story here in Markdown. Add images:
-
-![Some detail](/images/projects/SCR-20250825-psgh.png)
-
-More text, lists, code, etc.
+![](/images/projects/Kjokkenskaal/Siste%202.png)
