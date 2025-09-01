@@ -7,4 +7,4 @@ draft: false
 ---
 ## Details![](/images/projects/Greenboards/Plantegning.png)
 
-<p style="text-align: center"><img src="/images/projects/Greenboards/Plantegning.png"></p><p style="text-align: center"><img src="/images/projects/Greenboards/Forste%20bilde.jpg"></p>
+<p style="text-align: center"><img src="/images/projects/Greenboards/Forste%20bilde.jpg"></p>
