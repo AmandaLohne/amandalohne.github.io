@@ -1,11 +1,11 @@
 ---
 title: Note taking greenboards
 date: 2025-08-01
-excerpt: Making a worn down classic ready for more years to come.
+excerpt: Create a whiteboard out of green cabinet doors.
 cover: /images/projects/Greenboards/Green.png
 draft: false
 ---
-heihei
+
 ![](/images/projects/Greenboards/Plantegning.png)
 
 ![](/images/projects/Greenboards/Plantegning.png)
