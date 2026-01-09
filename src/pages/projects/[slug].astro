@@ -13,60 +13,189 @@ if (!entry) throw new Error(`Project not found: ${slug}`);
 
 const { Content } = await entry.render();
 const data = entry.data;
+const date = data.date ? new Date(data.date) : null;
+const formattedDate = date
+    ? new Intl.DateTimeFormat("en-US", {
+          year: "numeric",
+          month: "long",
+          day: "numeric",
+      }).format(date)
+    : null;
 ---
 
 <Layout>
-    <article class="wrap">
-        <header class="hero">
-            <h1>{data.title}</h1>
-            {
-                data.cover && (
+    <article class="project">
+        <header class="project__header">
+            <div>
+                <h1 class="project__title">{data.title}</h1>
+                {formattedDate && (
+                    <p class="project__meta">
+                        <time datetime={data.date}>{formattedDate}</time>
+                    </p>
+                )}
+                {data.excerpt && (
+                    <p class="project__excerpt">{data.excerpt}</p>
+                )}
+            </div>
+
+            {data.cover && (
+                <figure class="project__cover">
                     <img
-                        class="cover"
                         src={data.cover}
                         alt={data.coverAlt || data.title}
+                        loading="lazy"
                     />
-                )
-            }
-            {data.excerpt && <p class="excerpt">{data.excerpt}</p>}
+                </figure>
+            )}
         </header>
 
-        <div class="content">
+        <section class="project__body markdown">
             <Content />
-        </div>
+        </section>
     </article>
 </Layout>
-
 <style>
-    .wrap {
-        padding: 2rem;
-        max-width: 960px;
+    .project {
+        max-width: 900px;
         margin: 0 auto;
+        padding: 2.5rem 1.5rem 4rem;
+        display: grid;
+        gap: 2.5rem;
+    }
+
+    .project__header {
+        display: grid;
+        gap: 1.5rem;
+    }
+
+    .project__title {
+        margin: 0 0 0.5rem;
+        font-size: clamp(2rem, 3vw, 2.75rem);
+        line-height: 1.1;
+        letter-spacing: -0.02em;
+    }
+
+    .project__meta {
+        margin: 0 0 0.75rem;
+        color: #6b7280;
+        font-size: 0.95rem;
+    }
+
+    .project__excerpt {
+        margin: 0;
+        color: #4b5563;
+        font-size: 1.05rem;
+        max-width: 60ch;
+    }
+
+    .project__cover {
+        margin: 0;
+    }
+
+    .project__cover img {
+        display: block;
+        width: 100%;
+        object-fit: contain;
+        max-width: 50rem;
+        max-height: 30rem;
+    }
+
+    .project__body {
+        line-height: 1.75;
+        color: #1f2937;
+        overflow-wrap: anywhere;
         display: flex;
         flex-direction: column;
         justify-content: center;
-        align-items: center;
     }
-    .hero h1 {
-        margin: 0 0 0.5rem;
-        font-size: 2rem;
+
+    .project__body :where(h2, h3, h4) {
+        margin-top: 2rem;
+        margin-bottom: 0.75rem;
+        line-height: 1.25;
     }
-    .cover {
-        width: auto;
-        max-height: 20em;
-        border-radius: 10px;
-        margin: 0.5rem 0 1rem;
+
+    .project__body :where(p) {
+        margin: 0 0 1.1rem;
     }
-    .excerpt {
-        color: #555;
-        font-size: 1rem;
+
+    .project__body :where(ul, ol) {
+        margin: 0 0 1.25rem;
+        padding-left: 1.5rem;
     }
-    .content :where(img) {
-        max-width: 100%;
-        height: auto;
+
+    .project__body :where(li) {
+        margin: 0.35rem 0;
+    }
+
+    .project__body :where(a) {
+        color: #1d4ed8;
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+        text-underline-offset: 3px;
+    }
+
+    .project__body :where(blockquote) {
+        margin: 1.5rem 0;
+        padding: 0.75rem 1rem;
+        border-left: 3px solid #e5e7eb;
+        background: #f9fafb;
+        color: #4b5563;
         border-radius: 8px;
     }
-    .content :where(h2, h3) {
-        margin-top: 1.5rem;
+
+    .project__body :where(pre) {
+        background: #f3f4f6;
+        border: 1px solid #e5e7eb;
+        border-radius: 10px;
+        padding: 1rem;
+        overflow-x: auto;
+    }
+
+    .project__body :where(code) {
+        background: #f3f4f6;
+        border-radius: 6px;
+        padding: 0.15rem 0.35rem;
+        font-size: 0.95em;
+    }
+
+    .project__body :where(pre code) {
+        background: transparent;
+        padding: 0;
+    }
+
+    .project__body :where(figure) {
+        margin: 1.5rem 0;
+    }
+
+    .project__body :where(figcaption) {
+        margin-top: 0.4rem;
+        font-size: 0.9rem;
+        color: #6b7280;
+        text-align: center;
+    }
+
+    .project__body :where(table) {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5rem 0;
+        font-size: 0.95rem;
+    }
+
+    .project__body :where(th, td) {
+        border: 1px solid #e5e7eb;
+        padding: 0.6rem 0.75rem;
+        text-align: left;
+    }
+
+    .project__body :where(th) {
+        background: #f9fafb;
+        font-weight: 600;
+    }
+
+    @media (max-width: 640px) {
+        .project {
+            padding: 2rem 1.25rem 3rem;
+        }
     }
 </style>
