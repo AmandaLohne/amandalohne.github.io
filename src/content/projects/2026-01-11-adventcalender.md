@@ -1,6 +1,7 @@
 ---
 title: Adventcalender
 date: 2025-11-29
+excerpt: Turn laser-cut design into an advent calender.
 cover: /images/projects/Adventskalender/Drawing.png
 draft: false
 ---
