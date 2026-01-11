@@ -4,7 +4,12 @@ import Layout from "../layouts/Layout.astro";
 import { getCollection } from "astro:content";
 import ProjectCard from "../components/ProjectCard.astro";
 
-const projects = await getCollection("projects", (p) => !p.data.draft);
+const projects = (await getCollection("projects", (p) => !p.data.draft))
+  .sort(
+    (a, b) =>
+      (b.data.date?.getTime() ?? 0) -
+      (a.data.date?.getTime() ?? 0)
+  );
 console.log(projects);
 // Sort newest first if you like:
 // projects.sort((a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0));
