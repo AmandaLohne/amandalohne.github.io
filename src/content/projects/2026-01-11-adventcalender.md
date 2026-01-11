@@ -27,8 +27,6 @@ Finally, everything was put together. I added a cotton string between the spacer
 
 ![](/images/projects/Adventskalender/Light.jpg)
 
-![](/images/projects/Adventskalender/Stemning.jpg)
+![](/images/projects/Adventskalender/Stemning_2.jpeg)
 
 ![](/images/projects/Adventskalender/Stemning_1.jpg)
-
-![](/images/projects/Adventskalender/Stemningsbilde.jpg)
