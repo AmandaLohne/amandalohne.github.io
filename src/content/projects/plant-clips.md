@@ -15,9 +15,11 @@ The clip was designed in Fusion 360. A leaf pattern was added to the outward-fac
 
 ![](/images/projects/Planteklips/Skjermbilde%202026-01-11%20kl.%2019.53.33.png)
 
-The locking mechanism consists of two parts that slide together, providing a simple and secure hold. Once printed, the clips were mounted on the wall using double-sided tape. The design is also available on Printables: [https://www.printables.com/model/349056-plant-clip.](https://www.printables.com/model/349056-plant-clip)
+The locking mechanism consists of two parts that slide together, providing a simple and secure hold.
 
 ![](/images/projects/Planteklips/Planteklips%20svarte%202.png)
+
+Once printed, the clips were mounted on the wall using double-sided tape. The design is also available on Printables: [https://www.printables.com/model/349056-plant-clip.](https://www.printables.com/model/349056-plant-clip)
 
 ![](/images/projects/Planteklips/Planteklips.jpeg)
 
