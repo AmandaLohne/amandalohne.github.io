@@ -27,8 +27,8 @@ To improve usability, wheels were added to the laundry basket, making it easy to
 
 ![](/images/projects/Skittentoy/Koblinga%20ferdig.jpeg)
 
-Once everything was assembled, the table was complete—combining functionality, material consistency, and a clean, integrated design.
-
 ![](/images/projects/Skittentoy/Koblinga%20ferdig%20bilde.jpeg)
+
+Once everything was assembled, the table was complete—combining functionality, material consistency, and a clean, integrated design.
 
 ![](/images/projects/Skittentoy/Med_bord.jpg)
