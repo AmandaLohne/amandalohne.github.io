@@ -2,7 +2,7 @@
 title: Laundry basket table
 date: 2023-01-24
 excerpt: Covering the dirty laundry and creating more surface.
-cover: /images/projects/Skittentoy/Skittentoy skisse.png
+cover: /images/projects/Skittentoy/Forsidebilde.png
 draft: false
 ---
 ## Details
