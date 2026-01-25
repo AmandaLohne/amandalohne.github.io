@@ -5,6 +5,8 @@ excerpt: Turn everyday espresso tools into a clean, functional layout.
 cover: /images/projects/Tamping station.png
 draft: false
 ---
+![](/images/projects/Tamping%20station/Fusion.jpg)
+
 ![](/images/projects/Tamping%20station/IMG_8008.jpg)
 
 ![](/images/projects/Tamping%20station/IMG_8073.jpg)
