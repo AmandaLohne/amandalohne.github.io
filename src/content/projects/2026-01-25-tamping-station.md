@@ -9,6 +9,8 @@ I wanted to find a better way to organize the coffee equipment used with our esp
 
 ![](/images/projects/Tamping%20station/Fusion.jpg)
 
+Alongside the digital design, I explored how the station would work in real life, especially when determining the overall size and proportions of the station.
+
 ![](/images/projects/Tamping%20station/IMG_8008.jpg)
 
 ![](/images/projects/Tamping%20station/IMG_8073.jpg)
