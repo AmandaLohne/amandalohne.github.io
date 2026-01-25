@@ -13,4 +13,10 @@ draft: false
 
 ![](/images/projects/Vitrineskap/Feste%20med%20gitter.jpeg)
 
+![](/images/projects/Vitrineskap/IMG_4205.jpg)
+
+![](/images/projects/Vitrineskap/IMG_6365.jpg)
+
+![](/images/projects/Vitrineskap/IMG_6366.jpg)
+
 ![](/images/projects/Vitrineskap/Urtepotter.jpg)
