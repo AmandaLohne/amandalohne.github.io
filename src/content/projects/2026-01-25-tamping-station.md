@@ -33,13 +33,7 @@ draft: false
 
 ![](/images/projects/Tamping%20station/IMG_8808.jpg)
 
-![](/images/projects/Tamping%20station/IMG_8834.jpg)
-
-![](/images/projects/Tamping%20station/IMG_8898.jpeg)
-
 ![](/images/projects/Tamping%20station/IMG_8899.jpg)
-
-![](/images/projects/Tamping%20station/IMG_8908.jpg)
 
 ![](/images/projects/Tamping%20station/IMG_8902.jpg)
 
