@@ -51,6 +51,10 @@ The measurements taken from the coffee equipment were quite precise, but minor a
 
 ![](/images/projects/Tamping%20station/IMG_8735.jpg)
 
+One final adjustment was needed: the hole for the WDT tool was too close to the dosing cup. I decided to enlarge the original hole so that it could also be used for something else, such as a filter, and moved the WDT hole to the left corner of the block. To be completely sure the filter would fit, I modeled it in Fusion 360 before finalizing the design.
+
+![](/images/projects/Tamping%20station/Endret%20design.jpg)
+
 The final and largest recess posed a challenge, as it was deeper than the CNC machine’s maximum cutting depth of 35 mm. Since the box required a depth of 54 mm, multiple holes were drilled to the maximum depth, and the remaining material was removed using a chisel.
 
 ![](/images/projects/Tamping%20station/IMG_8799.jpg)
