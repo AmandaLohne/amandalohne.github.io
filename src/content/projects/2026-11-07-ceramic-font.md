@@ -5,29 +5,39 @@ excerpt: From clay to keyboard
 cover: /images/projects/Keramikkfont/Prosjekt (1) - page 68.png
 draft: false
 ---
-I wanted to get more attention for the things I sell on Tise, so I made an Instagram account to show how I make things and how they look in use. Until now I mostly posted photos without any text. But looking at other accounts, I noticed they often write on their photos to explain things, so I figured I should too.
+I sell some of the things I make on Tise, and I wanted more people to see them. So I started an Instagram account to show how I make things and how they look once they’re in use.
 
-Then I came across someone on Instagram who had made their own font using soy sauce. I thought I could do the same, but with clay, since I sell my own ceramics.
+At first I posted photos without any text. But the more I looked at other makers’ accounts, the more I noticed that they often write on their photos to explain what’s going on. I figured I should too, but I didn’t want to just use a regular font.
 
-I started by mixing clay and water until it had the consistency I wanted. Then I laid out a sheet of plain black paper and wrote out all the uppercase and lowercase letters.
+Then I came across someone who had made their own font by writing letters with soy sauce. I loved the idea and thought I could do the same with clay. That way the text on my photos would be made from the same material as the ceramics I sell.
+
+I mixed clay and water until it had the consistency I wanted, thick enough to hold its shape but runny enough to write with. Then I laid out a sheet of plain black paper and wrote out every uppercase and lowercase letter by hand.
 
 ![](/images/projects/Keramikkfont/IMG_0274_1.jpg)
 
-I photographed them one by one, brought the photos into Photoshop, removed the background from each letter and gathered them all in one document. 
+Getting the letters right took a few tries. Since it’s clay, every letter turns out a little different, and I think that’s part of the charm.
+
+I photographed each letter one by one and brought the photos into Photoshop. There I removed the background from every letter and gathered them all in one document. Using guides, I scaled them to the same size so they would line up nicely as text.
 
 ![](/images/projects/Keramikkfont/IMG_0401_1.jpg)
 
-Using guides, I scaled the letters to the same size, then imported them into Font Maker and named the font Keramikkfont.
+Finally I imported the letters into Font Maker and named the font Keramikkfont. Now it works just like any other font on my computer.
 
 ![](/images/projects/Keramikkfont/IMG_0514_1.jpg)
 
+Once I had the letters, I wanted to make a logo out of them too. I tried out a few different combinations and placements before landing on one.
+
+![](/images/projects/Keramikkfont/AL_logo_1.jpg)
+
 Now I can easily write on my photos and play around with fun text effects. Here are a few examples.
+
+This is the first cup I made that I was really happy with and grew attached to. I felt it deserved a little extra attention, so I added the word “koppen” to make it stand out.
+
+This photo shows that when I make things, I like to start with a plan.
+
+Follow along on [Instagram]([https://www.instagram.com/amanda_lohne/](https://www.instagram.com/amanda_lohne/)) and see what I sell on [Tise]([https://tise.com/amandaloh](https://tise.com/amandaloh)).
 
 ![](/images/projects/Keramikkfont/koppen.jpg)
 
 ![](/images/projects/Keramikkfont/plan.jpg)
-
-I also made a logo from the letters. I tried out a few different combinations and placements before landing on one. I wanted it to be connected to my name, so I ended up with an uppercase A and a lowercase l.
-
-![](/images/projects/Keramikkfont/AL_logo_1.jpg)
 
