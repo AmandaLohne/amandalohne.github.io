@@ -31,9 +31,8 @@ Once I had the letters, I wanted to make a logo out of them too. I tried out a f
 
 Now I can easily write on my photos and play around with fun text effects. Here are a few examples.
 
-Follow along on [Instagram]([https://www.instagram.com/amanda_lohne/](https://www.instagram.com/amanda_lohne/)) and see what I sell on [Tise]([https://tise.com/amandaloh](https://tise.com/amandaloh)).
-
 ![](/images/projects/Keramikkfont/koppen.jpg)
 
 ![](/images/projects/Keramikkfont/plan.jpg)
 
+Follow along on [Instagram]([[https://www.instagram.com/amanda_lohne/](https://www.instagram.com/amanda_lohne/)](https://www.instagram.com/amanda_lohne/](https://www.instagram.com/amanda_lohne/))) and see what I sell on [Tise]([[https://tise.com/amandaloh](https://tise.com/amandaloh)](https://tise.com/amandaloh](https://tise.com/amandaloh))).
