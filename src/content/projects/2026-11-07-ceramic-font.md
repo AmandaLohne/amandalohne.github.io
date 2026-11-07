@@ -27,7 +27,7 @@ Finally I imported the letters into Font Maker and named the font Keramikkfont. 
 
 Once I had the letters, I wanted to make a logo out of them too. I tried out a few different combinations and placements before landing on one.
 
-![](/images/projects/Keramikkfont/logo-Al.png)
+![](/images/projects/Keramikkfont/AL_LOGO_insta.jpg)
 
 Now I can easily write on my photos and play around with fun text effects. Here are a few examples.
 
