@@ -12,3 +12,7 @@ Then I came across someone on Instagram who had made their own font using soy sa
 I started by mixing clay and water until it had the consistency I wanted. Then I laid out a sheet of plain black paper and wrote out all the uppercase and lowercase letters. I photographed them one by one, brought the photos into Photoshop, removed the background from each letter and gathered them all in one document. Using guides, I scaled the letters to the same size, then imported them into Font Maker and named the font Keramikkfont.
 
 Now I can easily write on my photos and play around with fun text effects. Here are a few examples.
+
+
+
+I also made a logo from the letters. I tried out a few different combinations and placements before landing on one. I wanted it to be connected to my name, so I ended up with an uppercase A and a lowercase l.
