@@ -27,13 +27,9 @@ Finally I imported the letters into Font Maker and named the font Keramikkfont. 
 
 Once I had the letters, I wanted to make a logo out of them too. I tried out a few different combinations and placements before landing on one.
 
-![](/images/projects/Keramikkfont/AL_logo_1.jpg)
+![](/images/projects/Keramikkfont/logo-Al.png)
 
 Now I can easily write on my photos and play around with fun text effects. Here are a few examples.
-
-This is the first cup I made that I was really happy with and grew attached to. I felt it deserved a little extra attention, so I added the word “koppen” to make it stand out.
-
-This photo shows that when I make things, I like to start with a plan.
 
 Follow along on [Instagram]([https://www.instagram.com/amanda_lohne/](https://www.instagram.com/amanda_lohne/)) and see what I sell on [Tise]([https://tise.com/amandaloh](https://tise.com/amandaloh)).
 
